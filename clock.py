@@ -1,1 +1,1 @@
-import disco
+print("kocham życie")
